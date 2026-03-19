@@ -181,5 +181,5 @@ int main() {
         default:
             printf("\nOpcao invalida!\n");
     }
-
+return 0;
 }
